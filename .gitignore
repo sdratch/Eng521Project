@@ -5,7 +5,8 @@ __pycache__/
 
 # C extensions
 *.so
-
+MDDECT_v1_test.npy
+MDDECT_v1_train.npy
 # Distribution / packaging
 .Python
 build/
@@ -172,3 +173,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+#dataset
+MDDECT_v1_test.npy
+MDDECT_v1_train.npy
